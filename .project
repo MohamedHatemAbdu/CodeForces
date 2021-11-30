@@ -10,8 +10,14 @@
 			<arguments>
 			</arguments>
 		</buildCommand>
+		<buildCommand>
+			<name>greenspectorplugin.analysisBuilder</name>
+			<arguments>
+			</arguments>
+		</buildCommand>
 	</buildSpec>
 	<natures>
 		<nature>org.eclipse.jdt.core.javanature</nature>
+		<nature>greenspectorplugin.analysisNature</nature>
 	</natures>
 </projectDescription>
